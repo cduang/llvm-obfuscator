@@ -19,7 +19,8 @@ jobs:
         cmake \
           -DCMAKE_TOOLCHAIN_FILE=${{ steps.setup-ndk.outputs.ndk-path }}/build/cmake/android.toolchain.cmake \
           -DCMAKE_BUILD_TYPE=Release \
-          -DANDROID_ABI=armeabi-v7a ..
+          -DLLVM_INCLUDE_TESTS=OFF \
+          -DANDROID_ABI=armeabi-v7a .. 
         cmake --build .
     - name: Upload GitHub Actions artifact of vcpkg build
       uses: actions/upload-artifact@v2
