@@ -26,8 +26,7 @@ git apply --reject --ignore-whitespace ../ollvm14.patch
 ```
 And then follow the .rej prompts to modify
 
-## Please have a look at the [wiki](https://github.com/heroims/obfuscator/wiki)!
-
+## Please have a look at the wiki!
 You can cite Obfuscator-LLVM using the following Bibtex entry:
 
 ```
