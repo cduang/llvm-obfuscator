@@ -8,7 +8,7 @@
 - 安全性提高
 - 对指令集进行改进
 
-此项目由Rainyqwq完善，欢迎任何形式的反馈与贡献。
+The project is compiled by `@Rainyqwq`，欢迎任何形式的反馈与贡献。
 ## 开发人员 (按照贡献率排名)
   `@Rainyqwq `
   `@HHJJ888666 `
