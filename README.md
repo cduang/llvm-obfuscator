@@ -2,7 +2,7 @@
 
 鉴于OLLVM在圈子内垄断的现象, 我们合作推出了`LLVM_Modify`, 一个免费的成品OLLVM, 适用于`AArch(32/64)`平台, 即Android客户端可使用的OLLVM。
 
-它的功能是：
+特色：
 - 支持`AArch64`平台
 - 优化`AArch64`平台的性能
 - 安全性提高
