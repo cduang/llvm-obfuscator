@@ -1,6 +1,6 @@
 # LLVM_Modify简介
 
-鉴于OLLVM在圈子内垄断的现象, 我们合作推出了`LLVM_Modify`, 一个免费的成品OLLVM, 适用于`AArch(32/64)`和`X86_64`平台, 即Android/Windows客户端可使用的OLLVM。
+鉴于OLLVM在圈子内垄断的现象, `LLVM_Modify`应运而生, 它是一个免费的成品OLLVM, 适用于`AArch(32/64)`和`X86_64`平台, 即Linux/Windows客户端可使用的OLLVM。
 
 特色：
 - 支持`AArch64`, `X64`平台
